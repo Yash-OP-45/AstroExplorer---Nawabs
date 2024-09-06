@@ -1,6 +1,10 @@
-# AstroTreasure---Nawabs
+# AstroTreasure---Nawabs 
+
+Members: Archit Agarwal (Y24), Aditya Anand (Y24), Harpuneet Singh (Y24), Mayank Pattnaik (Y23), Sujal Aggarwal (Y23) and Yash Giri (Y22) (PS Lead)
 
 One-Drive Link for Submission (GitHub doesn't allow data submission >25MB): https://iitk-my.sharepoint.com/:u:/g/personal/yashg22_iitk_ac_in/EcktOjglRQ1HuRLjr-0_Y40B1fwGzlAphqeuryo2wBGJUQ?e=TKxVSS
+
+Note: Download the dataset beforehand and make sure your Laptop has great amount of RAM as well as CUDA. Happy Exploring !
 
 Steps to be followed to Run the 3 models:
 
